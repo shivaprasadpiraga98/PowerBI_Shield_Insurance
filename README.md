@@ -2,6 +2,12 @@
 
 This project is a part of the virtual Internship at AtliQ Technologies.
 
+
+## 🎥 Video Walkthrough
+📌 Watch the project walkthrough here: [https://www.youtube.com/embed/jKx2mbCpalg?si=KPhuWjzPlF0Enhdo]
+
+---
+
 ##  Company Overview:
 
 **Shield Insurance** provides affordable and customizable **insurance policies** for people of all ages. With a strong presence in major cities like **Mumbai, Chennai, Delhi, Hyderabad, and Indore**.
